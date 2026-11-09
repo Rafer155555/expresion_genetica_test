@@ -23,7 +23,6 @@ Practicar Git y GitHub mediante la creación y organización de un proyecto bioi
 expresion_genetica_test/
 ├── README.md
 ├── LICENSE
-├── CONTRIBUTING.md
 ├── .gitignore
 ├── .gitattributes
 ├── data/
@@ -47,13 +46,13 @@ expresion_genetica_test/
 
 | Ruta | Función en el ejemplo |
 | --- | --- |
-| `data/raw/` | Representar la ubicación de datos originales; solo contiene una explicación. |
-| `data/processed/` | Representar la ubicación de datos procesados; solo contiene una explicación. |
-| `metadata/` | Mostrar cómo se describirían las muestras mediante una plantilla vacía y su diccionario. |
+| `data/raw/` | Representar la ubicación de datos originales. |
+| `data/processed/` | Representar la ubicación de datos procesados. |
+| `metadata/` | Mostrar cómo se describirían las muestras mediante una plantilla y su diccionario. |
 | `docs/` | Explicar el alcance y las fases del caso conceptual. |
-| `scripts/` | Representar la ubicación de programas; no contiene scripts reales. |
-| `results/tables/` | Representar la ubicación de tablas; no contiene resultados. |
-| `results/figures/` | Representar la ubicación de figuras; no contiene resultados. |
+| `scripts/` | Representar la ubicación de programas. |
+| `results/tables/` | Representar la ubicación de tablas. |
+| `results/figures/` | Representar la ubicación de figuras. |
 
 Los archivos README de cada carpeta explican su finalidad y permiten conservar la estructura en Git.
 
