@@ -17,12 +17,6 @@ Practicar Git y GitHub mediante la creación y organización de un proyecto bioi
 
 ## Contexto del caso conceptual
 
-La pregunta orientadora es: ¿cómo se organizaría un proyecto de metagenómica para explorar comunidades microbianas de suelos y aguas amazónicas afectados por petróleo y proponer posibles candidatos asociados con la degradación de hidrocarburos?
-
-El enfoque corresponde a ADN ambiental y potencial funcional. La presencia hipotética de genes relacionados con degradación no demostraría actividad, expresión génica ni degradación efectiva. No se formulan conclusiones biológicas en esta actividad.
-
-El nombre técnico `expresion_genetica_test` se conserva como identificador inicial del repositorio. El caso acordado por el grupo es de metagenómica.
-
 ## Estructura del repositorio
 
 ```text
@@ -62,28 +56,6 @@ expresion_genetica_test/
 | `results/figures/` | Representar la ubicación de figuras; no contiene resultados. |
 
 Los archivos README de cada carpeta explican su finalidad y permiten conservar la estructura en Git.
-
-## Requisitos e instrucciones de uso
-
-Para consultar el proyecto basta con un navegador. Para practicar localmente se necesita Git, un editor de texto y una terminal Bash en Linux, macOS o Git Bash en Windows.
-
-```bash
-git clone https://github.com/Rafer155555/expresion_genetica_test.git
-cd expresion_genetica_test
-git status
-git log --oneline -10
-```
-
-1. Leer este documento y el [plan conceptual](docs/plan_conceptual.md).
-2. Consultar la [plantilla de metadatos](metadata/muestras_plantilla.csv) y su [diccionario](metadata/diccionario_muestras.csv). La plantilla contiene únicamente encabezados.
-3. Realizar una mejora documental en una rama propia siguiendo la [guía de colaboración](CONTRIBUTING.md).
-4. Revisar y fusionar las aportaciones acordadas por el grupo.
-
-No hay programas que instalar o ejecutar para realizar un análisis metagenómico en este repositorio.
-
-## Trabajo en grupo
-
-El grupo acordará el reparto de tareas durante la reunión. Las aportaciones se registrarán mediante commits y pull requests de cada integrante. No se atribuyen tareas realizadas a personas que todavía no hayan contribuido.
 
 ## Licencia
 
