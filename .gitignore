@@ -1,0 +1,33 @@
+# Carpetas ilustrativas de datos: conservar solo su documentación.
+/data/raw/*
+!/data/raw/README.md
+/data/processed/*
+!/data/processed/README.md
+
+# Archivos de secuenciación y alineamientos fuera del alcance didáctico.
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# Archivos temporales del sistema y editores.
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.tmp
+*.swp
+.ipynb_checkpoints/
+__pycache__/
+
+# Configuración local.
+.env
+.env.*
+.venv/
+venv/
