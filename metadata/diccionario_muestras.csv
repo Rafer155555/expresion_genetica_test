@@ -1,0 +1,11 @@
+campo,descripcion,formato_o_valores
+sample_id,Identificador unico de una muestra,Texto sin espacios
+environment,Tipo de ambiente previsto,soil o water
+condition,Condicion ambiental a documentar,oil_affected o reference o unknown
+site_code,Codigo del sitio de procedencia,Texto
+collection_date,Fecha de recoleccion,AAAA-MM-DD o vacio si no se conoce
+biological_replicate,Identificador de replica biologica,Texto o vacio si no aplica
+data_source,Procedencia del conjunto de datos,Texto o enlace documental
+accession,Identificador de acceso en un repositorio de secuencias,Texto o vacio si no existe
+read_layout,Disposicion de lecturas de secuenciacion,paired o single o unknown
+notes,Observaciones y limitaciones,Texto entre comillas si contiene comas
