@@ -22,12 +22,12 @@ Los siguientes archivos .FASTA ilustran posibles resultados de la secuenciación
 
 A continuación, se detella una breve explicación de cada archivo:
 
-- **z1_s.solid** : Zona 1 de Muestreo|Tipo de muestra: solido
-- **z1_s.water** : Zona 1 de Muestreo|Tipo de muestra: agua
-- **z2_s.solid** : Zona 2 de Muestreo|Tipo de muestra: solido
-- **z2_s.water** : Zona 2 de Muestreo|Tipo de muestra: agua
-- **z3_s.solid** : Zona 3 de Muestreo|Tipo de muestra: solido
-- **z3_s.water** : Zona 3 de Muestreo|Tipo de muestra: agua
-- **z4_s.solid** : Zona 4 de Muestreo|Tipo de muestra: solido
-- **z4_s.water** : Zona 4 de Muestreo|Tipo de muestra: agua
+- **z1_s.solid** : Zona 1 de Muestreo| Tipo de muestra: solido
+- **z1_s.water** : Zona 1 de Muestreo| Tipo de muestra: agua
+- **z2_s.solid** : Zona 2 de Muestreo| Tipo de muestra: solido
+- **z2_s.water** : Zona 2 de Muestreo| Tipo de muestra: agua
+- **z3_s.solid** : Zona 3 de Muestreo| Tipo de muestra: solido
+- **z3_s.water** : Zona 3 de Muestreo| Tipo de muestra: agua
+- **z4_s.solid** : Zona 4 de Muestreo| Tipo de muestra: solido
+- **z4_s.water** : Zona 4 de Muestreo| Tipo de muestra: agua
 
