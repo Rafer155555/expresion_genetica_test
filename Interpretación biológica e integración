@@ -1,0 +1,89 @@
+# Genes y microorganismos asociados a la biodegradación de petróleo en Ecuador
+
+## 1. Microorganismos con potencial de biodegradación
+
+En los suelos contaminados por hidrocarburos de la Amazonía ecuatoriana se han identificado microorganismos capaces de utilizar diferentes componentes del petróleo como fuente de carbono y energía.
+
+| Microorganismo | Tipo | Potencial de biodegradación |
+|---|---|---|
+| *Bacillus cereus* | Bacteria | Degradación de alcanos e hidrocarburos presentes en diésel y petróleo crudo. |
+| *Bacillus thuringiensis* | Bacteria | Participación en la degradación de hidrocarburos alifáticos. |
+| *Pseudomonas oleovorans* | Bacteria | Metabolismo de alcanos y otros hidrocarburos alifáticos. |
+| *Pseudomonas fluorescens* | Bacteria | Degradación de hidrocarburos aromáticos policíclicos (HAP) e hidrocarburos totales. |
+| *Pseudomonas aeruginosa* | Bacteria | Producción de biosurfactantes y enzimas relacionadas con la transformación de hidrocarburos. |
+| *Pseudomonas putida* | Bacteria | Degradación de compuestos aromáticos como tolueno y otros hidrocarburos. |
+| *Geomyces pannorum* | Hongo | Degradación de hidrocarburos presentes en diésel y petróleo. |
+| *Ganoderma cf. parvulum* | Hongo | Producción de enzimas ligninolíticas relacionadas con la transformación de hidrocarburos. |
+| *Trametes menziesii* | Hongo | Producción de lacasas y otras enzimas oxidativas con potencial para degradar contaminantes orgánicos. |
+| *Trametes meyenii* | Hongo | Actividad enzimática oxidativa y potencial de biodegradación de hidrocarburos. |
+
+## 2. Genes asociados a la biodegradación de hidrocarburos
+
+Los siguientes genes son candidatos para identificar rutas metabólicas relacionadas con la degradación de hidrocarburos en datos metagenómicos.
+
+| Gen | Microorganismos asociados (ejemplos) | Función metabólica | Compuesto objetivo |
+|---|---|---|---|
+| `alkB` | *Pseudomonas*, *Bacillus*, *Rhodococcus* | Codifica una alcano hidroxilasa que inicia la oxidación de alcanos. | Alcanos |
+| `CYP153` | *Pseudomonas*, *Rhodococcus*, *Acinetobacter* | Codifica una monooxigenasa tipo citocromo P450 que oxida alcanos. | Alcanos |
+| `ladA` | *Geobacillus* | Codifica una enzima que oxida alcanos de cadena larga. | Alcanos de cadena larga |
+| `almA` | *Acinetobacter* y otros géneros bacterianos | Participa en la oxidación de alcanos de cadena larga. | Alcanos de cadena larga |
+| `nahAc` | *Pseudomonas* | Codifica una subunidad de la naftaleno dioxigenasa. | Naftaleno |
+| `nahH` | *Pseudomonas* | Codifica catecol 2,3-dioxigenasa dentro de la ruta de degradación del naftaleno. | Compuestos aromáticos |
+| `catA` | *Pseudomonas*, *Bacillus* | Codifica catecol 1,2-dioxigenasa, que participa en la ruptura del anillo aromático. | Catecol |
+| `xylE` | *Pseudomonas* | Codifica catecol 2,3-dioxigenasa. | Catecol derivado de hidrocarburos aromáticos |
+| `todC1` | *Pseudomonas putida* | Participa en la codificación de la tolueno dioxigenasa. | Tolueno |
+| `bssA` | *Azoarcus*, *Thauera* y otras bacterias anaerobias | Codifica la subunidad alfa de la enzima bencil succinato sintasa. | Tolueno |
+| `assA` | *Desulfatibacillum* y otras bacterias anaerobias | Codifica una enzima relacionada con la activación anaerobia de alcanos. | Alcanos |
+| `pcaG` | *Pseudomonas* y otras bacterias | Participa en la ruta de degradación del protocatecuato. | Compuestos aromáticos |
+| `bphA` | *Pseudomonas*, *Rhodococcus* | Participa en la oxidación de bifenilos mediante dioxigenasas. | Bifenilos |
+| `phdF` | *Pseudomonas* | Participa en rutas metabólicas de degradación del fenantreno. | Fenantreno |
+
+## 3. Genes asociados a la biodegradación fúngica
+
+Los hongos también representan una alternativa importante para la biorremediación, debido a su capacidad de producir enzimas extracelulares que transforman contaminantes orgánicos complejos.
+
+| Gen / marcador funcional | Microorganismos asociados | Función |
+|---|---|---|
+| `laccase` (familia de genes *lcc*) | *Ganoderma*, *Trametes* | Codifica lacasas que oxidan compuestos aromáticos. |
+| `mnp` | *Trametes* y otros hongos ligninolíticos | Codifica manganeso peroxidasa, enzima oxidativa extracelular. |
+| `lip` | Hongos de pudrición blanca | Codifica lignina peroxidasa, relacionada con la oxidación de compuestos aromáticos complejos. |
+| `vp` | Algunos hongos ligninolíticos | Codifica peroxidasa versátil, con capacidad de oxidar diferentes compuestos orgánicos. |
+
+## 4. Genes prioritarios para el análisis metagenómico
+
+Para este proyecto se propone priorizar los siguientes genes:
+
+| Prioridad | Gen | Ruta metabólica | Tipo de hidrocarburo |
+|---|---|---|---|
+| Alta | `alkB` | Oxidación de alcanos | Alifáticos |
+| Alta | `CYP153` | Oxidación de alcanos | Alifáticos |
+| Alta | `nahAc` | Oxidación de naftaleno | Aromáticos |
+| Alta | `nahH` | Ruptura de catecol | Aromáticos |
+| Alta | `catA` | Ruptura de catecol | Aromáticos |
+| Media | `xylE` | Degradación de catecol | Aromáticos |
+| Media | `bssA` | Activación anaerobia de tolueno | Aromáticos |
+| Media | `assA` | Activación anaerobia de alcanos | Alifáticos |
+| Media | `ladA` | Oxidación de alcanos largos | Alifáticos |
+| Media | `bphA` | Oxidación de bifenilos | Aromáticos |
+
+## 5. Importancia para la Amazonía ecuatoriana
+
+La identificación de estos genes en muestras metagenómicas de suelos y aguas amazónicas permitiría caracterizar el potencial funcional de las comunidades microbianas expuestas a contaminación petrolera.
+
+Se plantea investigar principalmente microorganismos pertenecientes a los géneros *Bacillus*, *Pseudomonas*, *Rhodococcus* y *Acinetobacter*, así como hongos de los géneros *Ganoderma* y *Trametes*.
+
+La presencia de genes como `alkB`, `nahAc`, `catA` y `bphA` permitiría identificar rutas metabólicas relacionadas con la transformación de diferentes fracciones del petróleo. Asimismo, el análisis de genes fúngicos como los de lacasas y peroxidasas permitiría explorar mecanismos complementarios de biodegradación.
+
+**Nota científica:** Los microorganismos mencionados tienen distintos niveles de evidencia experimental en Ecuador y otros ambientes. No debe asumirse que todos los genes de la tabla están presentes en las cepas ecuatorianas citadas. Su asociación debe confirmarse mediante anotación funcional, análisis de homología y, cuando sea posible, evidencia de expresión génica.
+
+## 6. Referencias bibliográficas
+
+1. Maddela et al. (2015). [Novel diesel-oil-degrading bacteria and fungi from the Ecuadorian Amazon rainforest](https://pubmed.ncbi.nlm.nih.gov/26442498/).
+
+2. Maddela et al. (2016). [Removal of petroleum hydrocarbons from crude oil in solid and slurry phase by mixed soil microorganisms isolated from Ecuadorian oil fields](https://www.sciencedirect.com/science/article/abs/pii/S0964830515301669).
+
+3. [Microbial degradation of total petroleum hydrocarbons in crude oil: a field-scale study at the low-land rainforest of Ecuador](https://pubmed.ncbi.nlm.nih.gov/27928937/).
+
+4. [Bacterial Diversity in Old Hydrocarbon Polluted Sediments of Ecuadorian Amazon River Basins](https://pmc.ncbi.nlm.nih.gov/articles/PMC10892221/).
+
+5. [Mycoremediation of Petroleum-Contaminated Soil Using Native Ganoderma and Trametes Strains from the Ecuadorian Amazon](https://pmc.ncbi.nlm.nih.gov/articles/PMC12470330/).
