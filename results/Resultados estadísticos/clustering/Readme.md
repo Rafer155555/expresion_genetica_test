@@ -19,8 +19,8 @@ Identificar agrupamientos de muestras que presenten perfiles de abundancia simil
 
 Se almacenarán los siguientes resultados:
 
-- `clustering_resultados.zip`
-
+- `resultados_clustering.zip`
+- `Dendogramas y tablas.cvs`
 
 ## Metodología
 
