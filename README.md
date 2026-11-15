@@ -25,34 +25,79 @@ expresion_genetica_test/
 ├── LICENSE
 ├── .gitignore
 ├── .gitattributes
+│
 ├── data/
 │   ├── README.md
-│   ├── raw/README.md
-│   └── processed/README.md
+│   ├── raw/
+│   │   └── README.md
+│   └── processed/
+│       └── README.md
+│
 ├── metadata/
 │   ├── README.md
 │   ├── muestras_plantilla.csv
 │   └── diccionario_muestras.csv
+│
 ├── docs/
 │   ├── README.md
 │   └── plan_conceptual.md
+│
 ├── scripts/
 │   └── README.md
+│
 └── results/
     ├── README.md
-    ├── tables/README.md
-    └── figures/README.md
+    │
+    ├── tables/
+    │   ├── README.md
+    │   ├── tabla_microorganismos.csv
+    │   ├── tabla_genes.csv
+    │   ├── tabla_abundancia.csv
+    │   └── tabla_funciones.csv
+    │
+    ├── figures/
+    │   ├── README.md
+    │   ├── diversidad_microbiana.png
+    │   ├── abundancia_taxonomica.png
+    │   ├── genes_biodegradacion.png
+    │   ├── rutas_metabolicas.png
+    │   └── comparacion_muestras.png
+    │
+    ├── Interpretacion_datos/
+    │   ├── README.md
+    │   ├── genes_identificados.csv
+    │   ├── interpretacion_biologica.md
+    │   └── rutas_metabolicas.csv
+    │
+    ├── quality_control/
+    │   ├── README.md
+    │   ├── reporte_fastqc.csv
+    │   ├── calidad_secuencias.md
+    │   └── resumen_calidad.csv
+    │
+    └── sequence_cleaning/
+        ├── README.md
+        ├── resumen_limpieza.csv
+        ├── procesamiento_secuencias.md
+        └── estadisticas_filtrado.csv
 ```
 
-| Ruta | Función en el ejemplo |
-| --- | --- |
-| `data/raw/` | Representar la ubicación de datos originales. |
-| `data/processed/` | Representar la ubicación de datos procesados. |
-| `metadata/` | Mostrar cómo se describirían las muestras mediante una plantilla y su diccionario. |
-| `docs/` | Explicar el alcance y las fases del caso conceptual. |
-| `scripts/` | Representar la ubicación de programas. |
-| `results/tables/` | Representar la ubicación de tablas. |
-| `results/figures/` | Representar la ubicación de figuras. |
+## Descripción de las carpetas
+
+| Ruta | Función en el proyecto |
+|---|---|
+| `data/raw/` | Almacenamiento de secuencias originales. |
+| `data/processed/` | Secuencias procesadas y filtradas. |
+| `metadata/` | Información y descripción de las muestras. |
+| `docs/` | Metodología y documentación conceptual. |
+| `scripts/` | Organización de programas y códigos bioinformáticos. |
+| `results/tables/` | Tablas de microorganismos, genes y abundancia. |
+| `results/figures/` | Gráficos y representaciones visuales. |
+| `results/Interpretacion_datos/` | Interpretación biológica de genes y microorganismos. |
+| `results/quality_control/` | Reportes de evaluación de calidad de secuencias. |
+| `results/sequence_cleaning/` | Resultados de limpieza y filtrado de secuencias. |
+
+**Nota:** Las secuencias, tablas, estadísticas y resultados de este repositorio son simulados y tienen fines didácticos. Los nombres de herramientas representan las propuestas de análisis, no procesos experimentales ejecutados.
 
 Los archivos README de cada carpeta explican su finalidad y permiten conservar la estructura en Git.
 

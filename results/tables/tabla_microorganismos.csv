@@ -1,0 +1,10 @@
+ID_Muestra,Microorganismo,Genero,Tipo,Ambiente,Potencial_Biodegradador
+S01,Pseudomonas putida,Pseudomonas,Bacteria,Suelo,Alto
+S01,Bacillus cereus,Bacillus,Bacteria,Suelo,Medio
+S01,Rhodococcus erythropolis,Rhodococcus,Bacteria,Suelo,Alto
+S02,Acinetobacter calcoaceticus,Acinetobacter,Bacteria,Agua,Alto
+S02,Bacillus thuringiensis,Bacillus,Bacteria,Agua,Medio
+S02,Pseudomonas fluorescens,Pseudomonas,Bacteria,Agua,Alto
+S03,Geobacillus thermodenitrificans,Geobacillus,Bacteria,Suelo,Alto
+S03,Trametes versicolor,Trametes,Hongo,Suelo,Medio
+S03,Ganoderma lucidum,Ganoderma,Hongo,Suelo,Medio

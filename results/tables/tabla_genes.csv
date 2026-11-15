@@ -1,0 +1,11 @@
+ID_Gen,Gen,Enzima,Microorganismo_Asociado,Sustrato,Ruta_Metabolica
+G01,alkB,Alcano monooxigenasa,Pseudomonas putida,Alcanos,Oxidacion de alcanos
+G02,CYP153,Citocromo P450,Rhodococcus erythropolis,Alcanos,Oxidacion de alcanos
+G03,nahAc,Naftaleno dioxigenasa,Pseudomonas sp.,Naftaleno,Degradacion de aromaticos
+G04,nahH,Catecol 2 3 dioxigenasa,Pseudomonas sp.,Catecol,Ruptura del anillo aromatico
+G05,catA,Catecol 1 2 dioxigenasa,Pseudomonas fluorescens,Catecol,Ruptura del anillo aromatico
+G06,xylE,Catecol 2 3 dioxigenasa,Pseudomonas putida,Catecol,Degradacion de aromaticos
+G07,bssA,Bencil succinato sintasa,Azoarcus sp.,Tolueno,Degradacion anaerobia
+G08,assA,Alcano succinato sintasa,Desulfatibacillum sp.,Alcanos,Degradacion anaerobia
+G09,ladA,Alcano monooxigenasa,Geobacillus sp.,Alcanos de cadena larga,Oxidacion de alcanos
+G10,bphA,Bifenilo dioxigenasa,Rhodococcus sp.,Bifenilos,Degradacion de aromaticos

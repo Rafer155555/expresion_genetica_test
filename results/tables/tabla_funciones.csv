@@ -1,0 +1,8 @@
+ID_Funcion,Funcion_Metabolica,Genes_Asociados,Tipo_Hidrocarburo,Importancia
+F01,Oxidacion de alcanos,alkB; CYP153,Alifaticos,Alta
+F02,Degradacion de naftaleno,nahAc,Aromaticos,Alta
+F03,Ruptura de catecol,nahH; catA; xylE,Aromaticos,Alta
+F04,Degradacion anaerobia de tolueno,bssA,Aromaticos,Media
+F05,Degradacion anaerobia de alcanos,assA,Alifaticos,Media
+F06,Oxidacion de alcanos largos,ladA,Alifaticos,Alta
+F07,Degradacion de bifenilos,bphA,Aromaticos,Media
