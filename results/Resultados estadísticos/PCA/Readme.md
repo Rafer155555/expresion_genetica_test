@@ -11,9 +11,9 @@ Explorar los patrones de variación y las similitudes o diferencias entre las mu
 
 Se almacenarán los siguientes resultados:
 
-- `PCA_microorganismos_Suelo.png`: representación gráfica del PCA de microorganismos en muestras de suelo.
-- `PCA_microorganismos_Agua.png`: representación gráfica del PCA de microorganismos en muestras de agua.
-
+- `resultados_PCA_clustering_heatmaps.zip`
+- `Graficos.png`
+- `Tablas.cvs`
 
 ## Metodología
 
