@@ -1,10 +1,15 @@
 # Metagenómica de suelos y aguas amazónicas afectados por petróleo
 
-**Repositorio didáctico; destinado a practicar organización y control de versiones.**
+**Repositorio didáctico de programación científica, analisis bioinformatico y estadistico; destinado a practicar organización y control de versiones.**
 
-Caso conceptual de búsqueda de microorganismos amazónicos con posible potencial de degradación de hidrocarburos mediante metagenómica de suelos y aguas afectadas por derrames de petróleo. Se desarrolla como actividad grupal de Introducción a la Programación Científica de UNIR.
+Este proyecto plantea un caso de investigación orientado al estudio de comunidades microbianas presentes en suelos y cuerpos de agua de la Amazonia ecuatoriana afectados por contaminacion de hidrocarburos derivados del petroleo.
 
-**No se utilizan datos ni scripts reales.** El repositorio contiene documentación, una plantilla de metadatos sin registros y carpetas ilustrativas. No se han ejecutado análisis ni identificado microorganismos degradantes.
+Mediante herramientas de análisis metagenómicos, se propone explorar la composición y abundancia de microorganismos, asi como la presencia de genes funcionales potencialmente asociados con procesos de degradación de hidrocarburos.
+
+El proyecto incorpora actividades de análisis exploratorio de datos, estadística descriptiva y visualización, utilizando técnicas como histogramas, diagramas de caja, análisis de componentes principales, clustering y mapas de calor.
+
+**Importante**: Se trata de un proyecto académico con fines didácticos. Los datos utilizados para los ejercicios estadísticos serán simulados y no corresponden a muestras ambientales reales ni a resultados experimentales obtenidos en la Amazonia ecuatoriana. El repositorio contiene documentación, una plantilla de metadatos sin registros y carpetas exclusivamente ilustrativas.
+
 
 ## Propósito y objetivos
 
@@ -22,6 +27,14 @@ El Ecuador se encuentra entre los 17 países megadiversos del mundo, pese a su e
 Dentro de la región Amazónica, lado oriental del país continental, se concentra la mayor actividad pretolera y una de las fuentes de ingresos más fuertes que tiene el Ecuador, siendo cerca del 6 % del PIB (Producto Interno Bruto), lo que trae consigo una contaminación por derrames e infiltraciones de petroleo en las zonas de extracción y refinamiento asi como en los oleoductos y poliductos que están repartidos por las principales provincias. Lo que acarrea problemas de contaminación de cuerpos de agua cercanos, suelos, flora y fauna.
 
 Por ende, en el presente caso se explorará de manera teórica la metagenómica de suelos y cuerpos lacustres afectados por estos problemas, con el fin de recoger datos de bioprospección e identificación de posibles microorganismos que sean capaces de degradar estos compuestos y permitan la creación de planes de biorremediación a largo plazo para estas zonas afectadas. 
+
+Para desarrollar las actividades estadísticas se utilizarán conjunto de datos simulados que representarán la abundancia de microorganismos y genes funcionales en diferentes muestras ambientales.
+
+Se plantean cuatro grupos de estudio:
+1.- Suelo de referencia
+2.- Suelo afectados por hidrocarburos
+3.- Agua de referencia
+4.- Agua afectada por hidrocarburos.
 
 ## Estructura del repositorio
 
