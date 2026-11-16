@@ -1,0 +1,30 @@
+
+Myrold, D. D., Zeglin, L. H., & Jansson, J. K. (2014). The potential of metagenomic approaches for understanding soil microbial processes. Soil Science Society of America Journal, 78(1), 3-10.
+
+Semenov, M.V. Metabarcoding and Metagenomics in Soil Ecology Research: Achievements, Challenges, and Prospects. Biol Bull Rev 11, 40–53 (2021). https://doi.org/10.1134/S2079086421010084
+
+Ghazanfar, S., Azim, A., Ghazanfar, M. A., Anjum, M. I., & Begum, I. (2010). Metagenomics and its application in soil microbial community studies: biotechnological prospects. Journal of Animal & Plant Sciences, 6(2), 611-622.
+
+Kurobe, T., Lehman, P. W., Hammock, B. G., Bolotaolo, M. B., Lesmeister, S., & Teh, S. J. (2018). Biodiversity of cyanobacteria and other aquatic microorganisms across a freshwater to brackish water gradient determined by shotgun metagenomic sequencing analysis in the San Francisco Estuary, USA. PloS one, 13(9), e0203953. https://doi.org/10.1371/journal.pone.0203953
+
+Kachienga, L., Jitendra, K. & Momba, M. Metagenomic profiling for assessing microbial diversity and microbial adaptation to degradation of hydrocarbons in two South African petroleum-contaminated water aquifers. Sci Rep 8, 7564 (2018). https://doi.org/10.1038/s41598-018-25961-0
+
+Wang, X., Li, X., Yu, L., Huang, L., Xiu, J., Lin, W., & Zhang, Y. (2019). Characterizing the microbiome in petroleum reservoir flooded by different water sources. Science of the Total Environment, 653, 872-885. https://doi.org/10.1016/j.scitotenv.2018.10.410
+
+Silva, C. C., Hayden, H., Sawbridge, T., Mele, P., De Paula, S. O., Silva, L. C., ... & Oliveira, V. M. (2013). Identification of genes and pathways related to phenol degradation in metagenomic libraries from petroleum refinery wastewater. PloS one, 8(4), e61811. https://doi.org/10.1371/journal.pone.0061811
+
+Fahrenfeld, N. L., Reyes, H. D., Eramo, A., Akob, D. M., Mumford, A. C., & Cozzarelli, I. M. (2017). Shifts in microbial community structure and function in surface waters impacted by unconventional oil and gas wastewater revealed by metagenomics. Science of The Total Environment, 580, 1205-1213. https://doi.org/10.1016/j.scitotenv.2016.12.079
+
+Bao, Y. J., Xu, Z., Li, Y., Yao, Z., Sun, J., & Song, H. (2017). High-throughput metagenomic analysis of petroleum-contaminated soil microbiome reveals the versatility in xenobiotic aromatics metabolism. Journal of environmental sciences, 56, 25-35. https://doi.org/10.1016/j.jes.2016.08.022
+
+Peng, L., Hou, J., Zhang, Y., Wang, B., Zhang, Y., Zhao, K., ... & Luo, Y. (2024). Metagenomic analysis of a thermophilic bacterial consortium and its use in the bioremediation of a petroleum-contaminated soil. Chemosphere, 360, 142379. https://doi.org/10.1016/j.chemosphere.2024.142379
+
+Goma-Tchimbakala, E. J. C. D., Pietrini, I., Goma-Tchimbakala, J., & Corgnati, S. P. (2023). Use of Shotgun Metagenomics to Assess the Microbial Diversity and Hydrocarbons Degrading Functions of Auto-Mechanic Workshops Soils Polluted with Gasoline and Diesel Fuel. Microorganisms, 11(3), 722. https://doi.org/10.3390/microorganisms11030722
+
+Zhu, H., Fu, Y., Yu, J., Jing, W., & Zhou, M. (2023). Metagenomic insight on consortium degradation of soil weathered petroleum and its supplement based on gene abundance change. Enzyme and Microbial Technology, 169, 110285. https://doi.org/10.1016/j.enzmictec.2023.110285
+
+Auti, A.M., Narwade, N.P., Deshpande, N.M. et al. Microbiome and imputed metagenome study of crude and refined petroleum-oil-contaminated soils: Potential for hydrocarbon degradation and plant-growth promotion. J Biosci 44, 114 (2019). https://doi.org/10.1007/s12038-019-9936-9
+
+Dabravolski, S.A., Vatlin, A.A., Pavshintsev, V.V. et al. A metagenomic perspective on microbial hydrocarbon degradation: uncovering novel pathways and community dynamics. Environ Geochem Health 48, 201 (2026). https://doi.org/10.1007/s10653-026-03110-1
+
+Joshi, M.N., Dhebar, S.V., Dhebar, S.V. et al. Metagenomics of petroleum muck: revealing microbial diversity and depicting microbial syntrophy. Arch Microbiol 196, 531–544 (2014). https://doi.org/10.1007/s00203-014-0992-0
